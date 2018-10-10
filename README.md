@@ -3,7 +3,7 @@ Social Login with Facebook
 
 How to run the application
 
-Enable SSL/TLS on your web server.
+Enable SSL/TLS on your web server. Then follow these steps.
 
 1. Download OAuth folder.
 
