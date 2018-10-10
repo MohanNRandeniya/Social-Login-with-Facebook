@@ -1,4 +1,4 @@
-# Social-Login-with-Facebook
+# Social-Login-with-Facebook (OAuth2.0)
 Social Login with Facebook
 
 How to run the application
