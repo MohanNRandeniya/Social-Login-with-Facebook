@@ -3,6 +3,8 @@ Social Login with Facebook
 
 How to run the application
 
+Enable SSL/TLS on your web server.
+
 1. Download OAuth folder.
 
 2. Copy the folder to C:\xampp\htdocs location.
